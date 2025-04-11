@@ -1,0 +1,28 @@
+
+* {
+    margin: 0
+}
+
+body {
+    background-color: rgb(37, 33, 34)
+}
+
+
+.timer-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height:80vh;
+}
+
+.timer-container {
+    text-align: center;
+    background-color: rgb(75, 22, 28);
+    padding: 25px;
+    border-radius: 25px;
+}
+
+.open, .timer {
+    color:rgb(133, 28, 49)
+}
+
