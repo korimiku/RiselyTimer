@@ -1,7 +1,7 @@
 const timer = document.querySelector(".timer");
 
 //1 апреля  2025 мск
-const endDate = new Date("2025-06-01T00:00:00+03:00");
+const endDate = new Date("2025-07-01T00:00:00+03:00");
 
 function updateTimer() {
     const now = new Date();
